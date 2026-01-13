@@ -175,3 +175,7 @@ Weekly Website Usage Analytics
 **📜 License**
 
 This project is developed for educational and internship purposes.
+
+**OUTPUT:**
+
+<img width="1919" height="999" alt="Image" src="https://github.com/user-attachments/assets/4ad71df2-5e3e-40f1-8c88-53de40875fc5" />
