@@ -53,7 +53,7 @@ Time_Tracking_Productivity_Project/
 │   ├── dashboard.html
 │   └── dashboard.js
 │
-└── backend/ (optional – future enhancement)
+└── backend/ 
     ├── server.js
     ├── package.json
     └── models/
