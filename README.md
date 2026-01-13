@@ -3,6 +3,8 @@
 
 
 Time Tracking & Productivity Analytics 
+
+
 **📌 Project Overview**
 
 Time Tracking & Productivity Analytics is a Chrome extension that tracks the amount of time a user spends on different websites and provides productivity analytics through a popup view and a dashboard.
@@ -37,8 +39,10 @@ chrome.storage
 chrome.windows
 
 
-```
+
 **📁 Project Structure**
+
+```
 Time_Tracking_Productivity_Project/
 │
 ├── extension/
