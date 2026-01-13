@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracking & Productivity Analytics",
+  "version": "1.0",
+  "description": "Tracks website usage and generates weekly productivity reports",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "dashboard.html"
+}
