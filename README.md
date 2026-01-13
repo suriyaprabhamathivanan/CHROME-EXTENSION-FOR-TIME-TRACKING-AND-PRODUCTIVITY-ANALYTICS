@@ -195,3 +195,10 @@ This project is developed for educational and internship purposes.
 
 
 
+
+<img width="1919" height="924" alt="Image" src="https://github.com/user-attachments/assets/31ed1f83-a85a-4568-8584-63a23b080a0d" />
+
+
+
+
+
